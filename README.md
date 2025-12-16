@@ -2,7 +2,7 @@ Desenvolvedor Full Stack | Ciência da Computação
 
 Me chamo Plácido Francisco da Silva Junior, sou estudante de Ciência da Computação na UniJorge. Atuo na área de tecnologia com foco em desenvolvimento de software, automação e sistemas aplicados a problemas reais, especialmente em contextos educacionais, financeiros e corporativos.
 
-Atualmente trabalho no setor de engenharia da Absolut Technologies, onde tenho contato direto com projetos técnicos, documentação, organização de sistemas e apoio a soluções em tecnologia. Paralelamente, desenvolvo projetos próprios voltados a web, automação, análise de dados e uso prático de IA, sempre com preocupação em usabilidade, clareza e validação com usuários reais.
+Minha ultima experiencia atuel no setor de engenharia da Absolut Technologies, com envolvimento em projetos técnicos, elaboração de documentação, organização de sistemas e apoio a soluções em tecnologia. Paralelamente, desenvolvi projetos próprios voltados a web, automação, análise de dados e aplicações práticas de IA, sempre com foco em usabilidade, clareza e validação com usuários reais.
 
 Tenho interesse especial em aprender profundamente os fundamentos, mas sempre conectando teoria e prática. Uso este espaço para organizar projetos, estudos e experimentos que fazem parte da minha formação acadêmica e profissional.
 
@@ -37,7 +37,7 @@ Linguagens e Tecnologias
   </tr>
 </table>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PlacidoFjr/PlacidoFjr/output/github-contribution-grid-snake-dark.svg" />
