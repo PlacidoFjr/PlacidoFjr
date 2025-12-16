@@ -1,4 +1,4 @@
-Desenvolvedor Full Stack | Ciência da Computação
+💻 Desenvolvedor Full Stack | Ciência da Computação
 
 Me chamo Plácido Francisco da Silva Junior, sou estudante de Ciência da Computação na UniJorge. Atuo na área de tecnologia com foco em desenvolvimento de software, automação e sistemas aplicados a problemas reais, especialmente em contextos educacionais, financeiros e corporativos.
 
