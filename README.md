@@ -36,6 +36,7 @@ Linguagens e Tecnologias
     </td>
   </tr>
 </table>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
