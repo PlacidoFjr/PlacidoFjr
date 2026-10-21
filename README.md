@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/placido-francisco-da-silva-junior-a09765242/"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
 </p>
 
-## Olá, eu sou o Plácido 👋
+## Olá, eu sou Plácido
 
 Sou **bacharel em Ciência da Computação pela UniJorge** e desenvolvedor Full Stack. Meu foco atual é **IA conversacional e automação**, especialmente agentes com RAG, fluxos em n8n e integrações via MCP.
 
